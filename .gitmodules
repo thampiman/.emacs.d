@@ -1,0 +1,6 @@
+[submodule "emacs-for-python"]
+	path = emacs-for-python
+	url = https://github.com/gabrielelanaro/emacs-for-python.git
+[submodule "emacs-neotree"]
+	path = emacs-neotree
+	url = https://github.com/jaypei/emacs-neotree.git
